@@ -1,0 +1,17 @@
+{
+  "name": "numeria",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Renata Rocha da Silva",
+  "license": "ISC",
+  "description": "Jogo - Reino Númeria",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
